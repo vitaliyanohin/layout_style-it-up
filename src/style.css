@@ -8,7 +8,7 @@ body > div {
   height: 100px;
 }
 
-body > div:hover {
+div:hover {
   height: 200px;
 }
 
